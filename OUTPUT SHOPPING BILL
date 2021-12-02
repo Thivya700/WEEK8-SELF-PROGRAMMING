@@ -1,0 +1,12 @@
+Enter product details,
+Product Name: bread
+Quantity: 2
+Price (per item): 3
+Want to add more item? (y or n): y
+Enter product details,
+Product Name: milk
+Quantity: 2
+Price (per item): 4
+Want to add more item? (y or n): n
+
+Total Price = 14.0
