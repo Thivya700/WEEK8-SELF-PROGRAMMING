@@ -1,0 +1,20 @@
+package selfprogramming;
+import java.util.Scanner;
+
+public class TicketReservation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int choice;
+		Scanner s = new Scanner(System.in);
+		System.out.println("Enter one to book ticket or 0 to exit:: ");
+		choice = s.nextInt();
+		while (choice != 0) {
+			System.out.println("Enter 1 to book ticket or 0 to exit: ");
+			choice = s.nextInt();
+			System.exit(0);
+		}
+
+	}
+
+}
